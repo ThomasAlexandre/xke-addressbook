@@ -1,1 +1,13 @@
 Sample scala application implementing an address book
+
+Pre-requisite:
+- sbt installed (http://code.google.com/p/simple-build-tool/)
+
+
+To test the application:
+> sbt
+> update 
+> test
+
+To generate eclipse project files to be able to open as Eclipse project:
+> eclipse
